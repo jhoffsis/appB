@@ -1,0 +1,3 @@
+config for App-B
+
+Initial default value
