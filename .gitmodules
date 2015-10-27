@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://jhoffsis@github.com/jhoffsis/core.git
