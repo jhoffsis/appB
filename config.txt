@@ -2,4 +2,4 @@ config for App-B
 
 Initial default value
 
-Update to v2
+Update to v3
