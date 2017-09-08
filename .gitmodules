@@ -1,0 +1,4 @@
+[submodule "js/app"]
+	path = js/app
+	url = https://jhoffsis@github.com/jhoffsis/AppFramework.git
+	branch = develop
